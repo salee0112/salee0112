@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0&height=250&section=header&text=Seula%20Lee&fontSize=80&desc=Sungshin%20Women's%20University&fontAlignY=40&descSize=15)
+
+<div align=center> 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salee0112&show_icons=true&theme=dracula&bg_color=white&text_color=7A7A7A&icon_color=FFB8E8 )
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salee&layout=compact&theme=dracula&bg_color=white&text_color=7A7A7A)](https://github.com/metleeha)
+  
+</div>
